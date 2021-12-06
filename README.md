@@ -6,6 +6,6 @@ a database scraper created with mechanical soup and sqlite3
 ### File Info:
 <b>Scraper.py</b>
 <br>
-is designed to webscrape a table from Wikipedia and store it in a MariaDB database.
+is designed to webscrape a table from Wikipedia and store it in a sqlite3 database.
 <br>
 <br>
